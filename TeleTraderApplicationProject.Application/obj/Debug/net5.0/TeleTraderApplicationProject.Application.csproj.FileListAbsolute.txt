@@ -1,0 +1,12 @@
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\bin\Debug\net5.0\TeleTraderApplicationProject.Application.deps.json
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\bin\Debug\net5.0\TeleTraderApplicationProject.Application.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\bin\Debug\net5.0\TeleTraderApplicationProject.Application.pdb
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\TeleTraderApplicationProject.Application.csproj.AssemblyReference.cache
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\TeleTraderApplicationProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\TeleTraderApplicationProject.Application.AssemblyInfoInputs.cache
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\TeleTraderApplicationProject.Application.AssemblyInfo.cs
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\TeleTraderApplicationProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\TeleTraderApplicationProject.Application.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\refint\TeleTraderApplicationProject.Application.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\TeleTraderApplicationProject.Application.pdb
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Application\obj\Debug\net5.0\ref\TeleTraderApplicationProject.Application.dll

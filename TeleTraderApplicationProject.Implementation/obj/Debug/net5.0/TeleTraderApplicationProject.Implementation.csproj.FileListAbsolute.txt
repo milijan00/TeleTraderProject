@@ -1,0 +1,15 @@
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\bin\Debug\net5.0\TeleTraderApplicationProject.Implementation.deps.json
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\bin\Debug\net5.0\TeleTraderApplicationProject.Implementation.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\bin\Debug\net5.0\TeleTraderApplicationProject.Implementation.pdb
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.csproj.AssemblyReference.cache
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.AssemblyInfoInputs.cache
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.AssemblyInfo.cs
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\refint\TeleTraderApplicationProject.Implementation.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.pdb
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\ref\TeleTraderApplicationProject.Implementation.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\bin\Debug\net5.0\TeleTraderApplicationProject.Application.dll
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\bin\Debug\net5.0\TeleTraderApplicationProject.Application.pdb
+C:\Users\Aca\Desktop\TeleTraderApplicationProject\TeleTraderApplicationProject.Implementation\obj\Debug\net5.0\TeleTraderApplicationProject.Implementation.csproj.CopyComplete
